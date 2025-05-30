@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012482815596",
+    "project_id": "imeyas-bd73d",
+    "storage_bucket": "imeyas-bd73d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012482815596:android:0498d139962b0cd3460a49",
+        "android_client_info": {
+          "package_name": "com.example.ghizlln"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlYLznZrH25eq2-erpBNLv7pvcRRuKFg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
